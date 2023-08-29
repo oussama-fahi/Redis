@@ -1,2 +1,2 @@
 # Redis
-Generic Redis
+Generic module Redis
